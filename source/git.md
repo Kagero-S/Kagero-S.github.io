@@ -8,6 +8,7 @@ $ git push
 
 ```
 #vimで頻度の高いコマンド
+```
 
 ZZ 上書き保存し、vimを終了する
 
@@ -16,5 +17,5 @@ ZZ 上書き保存し、vimを終了する
 ;q!　保存せずに終了
 
 i　挿入モード(INSERT mode)
-
+```
 [gitの使い方](/source/git.md)
