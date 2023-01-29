@@ -1,3 +1,4 @@
+
 # git~~~
 
 ## git簡単
@@ -18,4 +19,4 @@ i　挿入モード(INSERT mode)
 ```
 [gitの使い方](/source/git.md)
 
-[YouTube](/youtube.com)
+[YouTube](https://www.youtube.com/)
