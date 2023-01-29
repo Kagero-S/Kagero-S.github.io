@@ -12,5 +12,8 @@ $ git push
 ZZ　上書き保存し、vimを終了する
 
 :w  内容を保存
+
 ;q! 保存せずに終了
+
 i   挿入モード(INSERT mode)
+
