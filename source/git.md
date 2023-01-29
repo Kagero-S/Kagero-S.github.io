@@ -17,4 +17,4 @@ ZZ 上書き保存し、vimを終了する
 
 i　挿入モード(INSERT mode)
 
-[gitの使い方](/sourse/git.md)
+[gitの使い方](/source/git.md)
