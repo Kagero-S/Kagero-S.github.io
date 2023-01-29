@@ -1,13 +1,13 @@
 # git~~~
 
-#git簡単
+##git簡単
 ```
 $ git add .
 $ git commit -m "commit massage"
 $ git push
 
 ```
-#vimで頻度の高いコマンド
+##vimで頻度の高いコマンド
 ```
 
 ZZ 上書き保存し、vimを終了する
